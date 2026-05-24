@@ -58,7 +58,7 @@ status:     Open to full-time and contract opportunities ✓
 **Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,cs,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,cs,dotnet,react&theme=dark" />
 </p>
 
 **Databases & Infrastructure**
@@ -70,7 +70,7 @@ status:     Open to full-time and contract opportunities ✓
 **Tools & Practices**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,django,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,pycharm,visualstudio,django,html,css&theme=dark" />
 </p>
 
 <details>
